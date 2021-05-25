@@ -16,4 +16,4 @@
  information for each customer. The dataset was used for exploratory analysis of variable relationships and predictive analysis of repayment outcome 
  using classification techniques.
 
-Look at the "Reports" for detailed info regarding methodology and results.
+**Look at the "Reports" for detailed info regarding methodology and results.**
