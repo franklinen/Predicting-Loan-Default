@@ -10,9 +10,10 @@
  determine credit outcomes with its attendant cost-saving benefits and profit.
 
 **Data**
-The data comes from real banking dataset used in the Risklab hackathon organized by Risklab in 2018. The dataset used for analysis was a real customer 
-banking data and have been anonymized to protect customer information. Dataset includes variables about customer attributes and historical credit 
-information for each customer. The dataset was used for exploratory analysis of variable relationships and predictive analysis of repayment outcome 
-using classification techniques.
+
+* The data comes from real banking dataset used in the Risklab hackathon organized by Risklab in 2018. The dataset used for analysis was a real customer 
+ banking data and have been anonymized to protect customer information. Dataset includes variables about customer attributes and historical credit 
+ information for each customer. The dataset was used for exploratory analysis of variable relationships and predictive analysis of repayment outcome 
+ using classification techniques.
 
 Look at the "Reports" for detailed info regarding methodology and results.
